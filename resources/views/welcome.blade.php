@@ -52,11 +52,11 @@
     </a>
 
     <div class="social-links text-center">
-      <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://x.com/banosheha709" class="twitter"><i class="bi bi-twitter-x"></i></a>
       <a href="https://www.facebook.com/profile.php?id=100068440574480" class="facebook"><i class="bi bi-facebook"></i></a>
       <a href="https://www.instagram.com/shehar636/" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      <a href="https://secure.skype.com/portal/overview" class="google-plus"><i class="bi bi-skype"></i></a>
+      <a href="https://www.linkedin.com/in/shehar-bano-32a4b724b/" class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div>
 
     <nav id="navmenu" class="navmenu">
